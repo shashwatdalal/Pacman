@@ -1,0 +1,8 @@
+/home/student/workspace/jpacman-framework/src/test/java/jpacman/engine/board/SquareTest.java
+/home/student/workspace/jpacman-framework/src/test/java/jpacman/engine/board/BoardTest.java
+/home/student/workspace/jpacman-framework/src/test/java/jpacman/engine/board/OccupantTest.java
+/home/student/workspace/jpacman-framework/src/test/java/jpacman/engine/board/BoardFactoryTest.java
+/home/student/workspace/jpacman-framework/src/test/java/jpacman/engine/sprite/SpriteTest.java
+/home/student/workspace/jpacman-framework/src/test/java/jpacman/engine/level/LevelTest.java
+/home/student/workspace/jpacman-framework/src/test/java/jpacman/engine/npc/ghost/NavigationTest.java
+/home/student/workspace/jpacman-framework/src/test/java/jpacman/LauncherSmokeTest.java

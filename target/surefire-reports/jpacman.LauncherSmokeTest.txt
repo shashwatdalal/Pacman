@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: jpacman.LauncherSmokeTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 135.65 sec - in jpacman.LauncherSmokeTest
